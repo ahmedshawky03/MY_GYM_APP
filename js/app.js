@@ -89,10 +89,28 @@ const videosData = {
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/reel/693388336804244" 
     },
+    {
+      muscle: "Full Arm 5",
+      exercise: "Full train arm",
+      sets: "4 Sets * 12 Reps (Super set)",
+      embed: "https://www.facebook.com/reel/1063486298537936" 
+    },
+    {
+      muscle: "Full Arm 6",
+      exercise: "Full train arm",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/380877834982983" 
+    },
 
 
     {
-      muscle: "Biceps",
+      muscle: "Biceps 1",
+      exercise: "biceps workout for mass",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/955183962659972" 
+    },
+    {
+      muscle: "Biceps 2",
       exercise: "Why Your Biceps Aren’t Growing?",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=976690837992096" 
@@ -124,9 +142,21 @@ const videosData = {
     },
     {
       muscle: "Full Chest 2",
-      exercise: "Full train chest and triceps workout",
+      exercise: "Full train chest ",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=2979231452264974" 
+    },
+    {
+      muscle: "Full Chest 3",
+      exercise: "Full train chest ",
+      sets: "5 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/1888000495341682" 
+    },
+    {
+      muscle: "Full Chest 4",
+      exercise: "Full train chest ",
+      sets: "5 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/1225061331851844" 
     },
     {
       muscle: "Cable Chest Workout",
@@ -168,6 +198,19 @@ const videosData = {
       embed: "https://www.facebook.com/reel/1291048095929620" 
     },
     {
+      muscle: "Full Back 5",
+      exercise: "  Full train back ",
+      sets: "4 Sets * 12 Reps ",
+      embed: "https://www.facebook.com/reel/1365902961839558" 
+    },
+    {
+      muscle: "Full Back 6",
+      exercise: "  Full train back ",
+      sets: "4 Sets * 12 Reps ",
+      embed: "https://www.facebook.com/reel/1596320610914970" 
+    },
+
+    {
       muscle: "Back cable pull",
       exercise: "  cable pull ",
       sets: "4 Sets * 12 Reps",
@@ -181,6 +224,18 @@ const videosData = {
         sets: "4 Sets * 12 Reps",
         embed: "https://www.facebook.com/reel/652939910841994"
     },
+    {
+      muscle: "Chest & Back 2",
+        exercise: " Full train chest & back ",
+        sets: "4 Sets * 12 Reps",
+        embed: "https://www.facebook.com/reel/792293972975490"
+    },
+    {
+      muscle: "Chest & Back 3",
+        exercise: " Full train chest & back ",
+        sets: "4 Sets * 12 Reps",
+        embed: "https://www.facebook.com/reel/465055705956239"
+    },
   ],
   legs: [
       {
@@ -193,14 +248,20 @@ const videosData = {
       muscle: "Full Legs 2",
       exercise: "Full train legs ",
       sets: "4 Sets * 8 Reps high weight",
-      embed: "https://www.facebook.com/reel/1439678230576991" 
+      embed: "https://www.facebook.com/reel/916426376807901" 
+    },
+      {
+      muscle: "Full Legs 3",
+      exercise: "Full train legs ",
+      sets: "4 Sets * 8 Reps high weight",
+      embed: "https://www.facebook.com/reel/452254390856396" 
     },
 
     {
       muscle: "Leg press",
       exercise: " leg press machine ",
       sets: "4 Sets * 8 Reps high weight",
-      embed: "https://www.facebook.com/watch/?ref=saved&v=884168557698928" 
+      embed: "https://www.facebook.com/reel/2010404503059549" 
     },
   ],
   shoulders: [
@@ -234,6 +295,18 @@ const videosData = {
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/reel/540326179119552"
     }, 
+    {
+      muscle: "Full Shoulders 6",
+      exercise: "Full train shoulder ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/568643592738421"
+    }, 
+    {
+      muscle: "Full Shoulders 7",
+      exercise: "Full train shoulder ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/reel/1074343404478537"
+    }, 
 
   ],
   abs: [
@@ -248,6 +321,18 @@ const videosData = {
         exercise: "Full train abs ",
         sets: "4 Sets * 20 Reps",
         embed: "https://www.facebook.com/reel/1005086168420391"
+    },
+    {
+      muscle: "Full Abs 3",
+        exercise: "Full train abs ",
+        sets: "3 Sets * 15 Reps",
+        embed: "https://www.facebook.com/reel/554813157574564"
+    },
+    {
+      muscle: "Full Abs 4",
+        exercise: "Full train abs ",
+        sets: "3 Sets * 15 Reps",
+        embed: "https://www.facebook.com/reel/966788335190249"
     },
   ],
   push: [
@@ -270,10 +355,16 @@ const videosData = {
       embed: "https://www.facebook.com/reel/1096313512025547" 
     },
     {
-      muscle: "Full Push 3 ",
+      muscle: "Full Push 4 ",
       exercise: "Full train push (CABLE ONLY) ",
       sets: "3 Sets * 12 Reps ((1st normal 2,3 all i can ,high intesity high weight))",
       embed: "https://www.facebook.com/reel/1062516365849006" 
+    },
+    {
+      muscle: "Full Push 5 ",
+      exercise: "Full train push  ",
+      sets: "3 Sets * 12 Reps ((1st normal 2,3 all i can ,high intesity high weight))",
+      embed: "https://www.facebook.com/reel/618078327480185" 
     },
     
   ],
@@ -323,7 +414,31 @@ const videosData = {
     },
 
    
-  ]
+  ], 
+    ramadan: [
+    {
+        muscle: "Ramadan Workout 1",
+        exercise: "first & 2nd days of ramadan workout ",
+        sets: "4 Sets * 12 Reps ",
+        embed: "https://www.facebook.com/reel/590677010581117"
+    },
+    {
+        muscle: "Ramadan Workout 2",
+        exercise: "3rd & 4th days of ramadan workout ",
+        sets: "4 Sets * 12 Reps ",
+        embed: "https://www.facebook.com/reel/1263047331580271"
+    },
+    {
+        muscle: "any week Workout",
+        exercise: "all week ",
+        sets: "4 Sets * 12 Reps ",
+        embed: "https://www.facebook.com/reel/468752959057053"
+    },
+
+    ],
+
+
+
 };
 
 /* ========================= */

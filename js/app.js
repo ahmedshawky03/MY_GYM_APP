@@ -111,16 +111,34 @@ const videosData = {
     },
     {
       muscle: "Biceps 2",
+      exercise: "peacher curl",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=1135478495359771" 
+    },
+    {
+      muscle: "Biceps 3",
       exercise: "Why Your Biceps Aren’t Growing?",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=976690837992096" 
     },
 
     {
-      muscle: "Triceps",
+      muscle: "Triceps 1",
       exercise: "Do You Want Bigger Triceps?",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=1556005358871899" 
+    },
+    {
+      muscle: "Triceps cable",
+      exercise: "cable triceps workout",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=846322194956562" 
+    },
+    {
+      muscle: "Triceps dumbbell",
+      exercise: "dumbbell triceps workout",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=824296973992512" 
     },
   ],
   wrist: [
@@ -165,7 +183,31 @@ const videosData = {
       embed: "https://www.facebook.com/watch/?ref=saved&v=838600722198785" 
     },
     {
-      muscle: "Butterfly Workout",
+      muscle: "Cable Chest 3adawia",
+      exercise: " cable ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=1174235684899212" 
+    },
+    {
+      muscle: "Cable Chest 3adawia 2",
+      exercise: " cable ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=4461981390701391" 
+    },
+    {
+      muscle: "Cable Chest 3adawia 3",
+      exercise: " cable ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=801770028689805" 
+    },
+    {
+      muscle: "Butterfly Workout 1 ",
+      exercise: " butterfly ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=1800412450611455" 
+    },
+    {
+      muscle: "Butterfly Workout 2 ",
       exercise: " butterfly ",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=1876049379927072" 
@@ -215,6 +257,18 @@ const videosData = {
       exercise: "  cable pull ",
       sets: "4 Sets * 12 Reps",
       embed: "https://www.facebook.com/watch/?ref=saved&v=1799194714089399" 
+    },
+    {
+      muscle: "Butterfly cable",
+      exercise: "  butterfly ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=1030695465048909" 
+    },
+    {
+      muscle: "Back Extension",
+      exercise: "  back ",
+      sets: "4 Sets * 12 Reps",
+      embed: "https://www.facebook.com/watch/?ref=saved&v=1030695465048909" 
     },
   ],
   chestback: [
@@ -333,6 +387,18 @@ const videosData = {
         exercise: "Full train abs ",
         sets: "3 Sets * 15 Reps",
         embed: "https://www.facebook.com/reel/966788335190249"
+    },
+    {
+      muscle: "Full Abs 5",
+        exercise: "Full train abs ",
+        sets: "3 Sets * 15 Reps",
+        embed: "https://www.facebook.com/watch/?ref=saved&v=25343165538646321"
+    },
+    {
+      muscle: "Abs 1",
+        exercise: "train abs ",
+        sets: "3 Sets * 15 Reps",
+        embed: "https://www.facebook.com/watch/?ref=saved&v=1730437867623159"
     },
   ],
   push: [
